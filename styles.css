@@ -1,0 +1,66 @@
+img {
+    width:300px;
+    height:300px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.bts {
+    width:500px;
+    height:281px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.jagiya {
+    width:704px;
+    height:396px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.suga {
+    width:464px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.bst { 
+    width:480px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+h1 {
+    font-family: 'Kumar One Outline', cursive;
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    justify-content: center;
+}
+li {
+    display: flex;
+    justify-content: center;
+}
+p {
+    display: flex;
+    justify-content: center;
+    
+}
+body {
+    background-image:url(https://graphicburger.com/wp-content/uploads/2017/06/6-Iridescent-Holographic-Backgrounds-600.jpg);
+}
+.jagiyajk {
+    height: 408px;
+    width: 361px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+a {
+    display: flex;
+    justify-content: center;
+}
